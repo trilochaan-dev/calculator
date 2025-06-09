@@ -26,6 +26,8 @@ body{
     background-color: black;
     width: auto;
     height: auto;
+    min-width: 300px;
+    min-height: 500px;    
     display: flex;
     flex-direction: column; 
     align-items:inherit;
